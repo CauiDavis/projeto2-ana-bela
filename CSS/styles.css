@@ -2,8 +2,13 @@ body{
     background: #d2d2c1;
     font: 16px Arial, Helvetica, sans-serif;
 }
+*{
+    margin: 0px;
+    padding: 0px;
+}
 #principal{
     width: 900px;
+    margin: 0px auto;
 }
 #menu{
     background: #c5c5b2;
@@ -24,6 +29,7 @@ p{
 }
 #rodape{
     text-align: center;
+    padding: 15px;
 }
 .img-campanha{
     border: 10px solid #c3c3ae;
